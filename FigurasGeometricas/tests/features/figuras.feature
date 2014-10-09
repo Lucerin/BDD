@@ -27,4 +27,4 @@ Scenario: Figure of 1
 Scenario: Figure of 1
 	Given I have the triangle 5 2
 	When I compute its figure 
-	Then I see the number 5
+	Then I see the number 

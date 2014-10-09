@@ -44,4 +44,3 @@ Scenario: Calculator of 03
 	When I compute its operation 
 	Then I see the number 10
 
-
